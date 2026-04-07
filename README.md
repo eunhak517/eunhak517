@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Put banner.png in the same repository folder as README.md -->
 <img src="./banner.png" width="100%" alt="Eunhak Kim banner" />
 
 <br />
@@ -8,18 +7,20 @@
 
 <h1>김은학 | Eunhak Kim</h1>
 
-<p><b>꾸준히 배우고 직접 만들며 성장하는 개발자</b></p>
-
 <p>
-  Computer Science Student · Building strong fundamentals in C, C++, Python
+  <b>꾸준히 배우고 직접 만들며 성장하는 개발자</b>
 </p>
 
 <p>
-  <a href="https://github.com/kimeunhak517">
-    <img src="https://img.shields.io/badge/GitHub-kimeunhak517-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  Computer Science Student · Building strong fundamentals in C, C++, and Python
+</p>
+
+<p>
+  <a href="https://github.com/kimeunhak517-cloud">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kimeunhak517&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kimeunhak517?style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=kimeunhak517-cloud&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kimeunhak517-cloud?style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
 </p>
 
 </div>
@@ -28,18 +29,20 @@
 
 ## ✨ About Me
 
-기초를 단단히 쌓으며 성장하는 개발자입니다.  
-배운 내용을 직접 구현하고 기록하는 과정을 중요하게 생각합니다.  
-꾸준함과 완성도를 바탕으로 더 좋은 개발자가 되고자 합니다.
+기초를 단단히 쌓으며,  
+배운 내용을 직접 구현하고 기록하는 과정을 통해 성장하고 있습니다.
+
+빠르게 많이 아는 개발자보다,  
+기본기를 깊게 이해하고 꾸준히 쌓아가는 개발자를 지향합니다.
 
 ---
 
 ## 🧭 Current Focus
 
-- 자료구조와 알고리즘을 꾸준히 학습하기
-- C, C++, Python 기반의 구현력 강화하기
-- 컴퓨터공학 핵심 기초를 깊고 탄탄하게 다지기
-- 작은 기록과 프로젝트를 쌓으며 성장 과정 남기기
+- 자료구조와 알고리즘을 꾸준히 학습하며 문제 해결력을 기르고 있습니다.
+- C, C++, Python을 바탕으로 구현 능력과 개발 감각을 다지고 있습니다.
+- 컴퓨터공학 핵심 기초를 깊고 탄탄하게 다지며 앞으로의 성장을 준비하고 있습니다.
+- 배운 내용을 정리하고 기록하면서 성장의 흐름을 남기고 있습니다.
 
 ---
 
@@ -73,13 +76,10 @@
 
 ## 📌 What I Value
 
-<div align="center">
-
-| 꾸준함 | 기록 | 구현 | 성장 |
-|---|---|---|---|
-| 작은 진전이라도 멈추지 않기 | 배운 것을 남기고 다시 꺼내보기 | 직접 손으로 만들며 이해하기 | 어제보다 나은 개발자 되기 |
-
-</div>
+- **꾸준함** — 작은 진전이라도 멈추지 않기
+- **기록** — 배운 것을 정리하고 다시 꺼내보기
+- **구현** — 직접 손으로 만들며 이해하기
+- **성장** — 어제보다 나은 개발자가 되기
 
 ---
 
@@ -89,8 +89,8 @@
 Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ```
 
-지금은 빠르게 넓히기보다, 오래 가는 실력을 만들기 위해  
-기본기를 깊게 다지는 데 집중하고 있습니다.
+지금은 빠르게 넓히기보다,  
+오래 가는 실력을 만들기 위해 기본기를 깊게 다지는 데 집중하고 있습니다.
 
 ---
 
@@ -106,14 +106,14 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+</div>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimeunhak517-cloud&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeunhak517-cloud&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
+<br />
 
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=kimeunhak517-cloud&theme=transparent&hide_border=true" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 ---
@@ -121,7 +121,7 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimeunhak517-cloud&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimeunhak517-cloud&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -151,29 +151,7 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 🤝 Connect
 
 <p>
-  <a href="https://github.com/kimeunhak517">
-    <img src="https://img.shields.io/badge/GitHub-kimeunhak517-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/kimeunhak517-cloud">
+    <img src="https://img.shields.io/badge/GitHub-kimeunhak517--cloud-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<!--
-나중에 대표 프로젝트가 생기면 아래 섹션 추가
-
-## 📂 Featured Projects
-
-- [Project Name](https://github.com/kimeunhak517/repository-name) - 한 줄 설명
-- [Project Name](https://github.com/kimeunhak517/repository-name) - 한 줄 설명
--->
-
-<!--
-블로그나 이메일이 생기면 아래처럼 추가
-
-<a href="YOUR_BLOG_URL">
-  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Blog" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
--->
-<img src="./banner.png" width="100%" alt="Eunhak Kim banner" />
