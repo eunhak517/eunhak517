@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://github.com/kimeunhak517-cloud">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-kimeunhak517--cloud-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=kimeunhak517-cloud&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/kimeunhak517-cloud?style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
@@ -106,14 +106,8 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="./assets/userstats.svg" width="49%" alt="GitHub stats" />
+  <img src="./assets/achievements.svg" width="49%" alt="GitHub achievements" />
 </div>
 
 ---
@@ -121,15 +115,11 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake.svg" width="100%" alt="GitHub activity graph" />
+  </picture>
 </div>
 
 ---
@@ -155,3 +145,20 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
     <img src="https://img.shields.io/badge/GitHub-kimeunhak517--cloud-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<!--
+배너 이미지는 README.md와 같은 위치에 `banner.png`로 넣으면 가장 깔끔합니다.
+
+최종 구조 예시
+kimeunhak517-cloud/
+ ┣ .github/
+ ┃  ┗ workflows/
+ ┃     ┗ profile-widgets-local.yml
+ ┣ assets/
+ ┃  ┣ userstats.svg
+ ┃  ┣ achievements.svg
+ ┃  ┣ github-snake.svg
+ ┃  ┗ github-snake-dark.svg
+ ┣ banner.png
+ ┗ README.md
+-->
