@@ -7,9 +7,7 @@
 
 <h1>김은학 | Eunhak Kim</h1>
 
-<p>
-  <b>꾸준히 배우고 직접 만들며 성장하는 개발자</b>
-</p>
+<p><b>꾸준히 배우고 직접 만들며 성장하는 개발자</b></p>
 
 <p>
   Computer Science Student · Building strong fundamentals in C, C++, and Python
@@ -106,8 +104,8 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./assets/userstats.svg" width="49%" alt="GitHub stats" />
-  <img src="./assets/achievements.svg" width="49%" alt="GitHub achievements" />
+  <img src="./assets/github-stats.png" width="49%" alt="GitHub stats" />
+  <img src="./assets/achievements.png" width="49%" alt="GitHub achievements" />
 </div>
 
 ---
@@ -115,20 +113,24 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 📈 Activity Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-    <img src="./assets/github-snake.svg" width="100%" alt="GitHub activity graph" />
-  </picture>
+  <img src="./assets/activity-graph.png" width="100%" alt="GitHub activity graph" />
 </div>
 
 ---
 
 ## 🎯 Goal
 
-기초를 깊게 이해하고,  
-꾸준한 기록과 구현을 통해  
-점점 더 단단한 개발자가 되는 것.
+🌐 세상은 0과 1만으로 이루어진 세계가 아닙니다. 
+
+ 세상은 이분법으로는 설명할 수 없는 수많은 관계와 감정, 맥락이 얽혀 지금의 복잡하고도 아름다운 세상을 이루고 있습니다. 
+
+저는 현실 세계와 가상 세계를 잇는 도구를 개발하여, 사람들의 삶을 더욱 풍요롭고 윤택하게 만드는 데 기여하고 싶습니다. ✨
+
+🌐 I believe the world cannot be defined by 0s and 1s alone.
+
+It is a complex yet beautiful place, shaped by countless relationships, emotions, and contexts that go far beyond simple binary thinking.
+
+I aspire to build tools that bridge the real world and the virtual world, contributing to a richer and more meaningful life for people. ✨
 
 ---
 
@@ -145,20 +147,3 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
     <img src="https://img.shields.io/badge/GitHub-kimeunhak517--cloud-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<!--
-배너 이미지는 README.md와 같은 위치에 `banner.png`로 넣으면 가장 깔끔합니다.
-
-최종 구조 예시
-kimeunhak517-cloud/
- ┣ .github/
- ┃  ┗ workflows/
- ┃     ┗ profile-widgets-local.yml
- ┣ assets/
- ┃  ┣ userstats.svg
- ┃  ┣ achievements.svg
- ┃  ┣ github-snake.svg
- ┃  ┗ github-snake-dark.svg
- ┣ banner.png
- ┗ README.md
--->
