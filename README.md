@@ -107,12 +107,12 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimeunhak517&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeunhak517&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimeunhak517-cloud&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeunhak517-cloud&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
 
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=kimeunhak517&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kimeunhak517-cloud&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -121,7 +121,7 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimeunhak517&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimeunhak517-cloud&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ Fundamentals → Problem Solving → Projects → Deeper CS → AI / ML
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimeunhak517&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kimeunhak517-cloud&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
