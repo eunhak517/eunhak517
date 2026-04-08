@@ -42,7 +42,7 @@ TIME_CONFIG = {
     },
     "night": {
         "range": lambda h: h >= 22 or h < 5,
-        "message": "좋은 새벽입니다. 조용한 시간 속에서도 당신의 하루를 응원합니다.",
+        "message": "좋은 새벽입니다. 고요한 시간 속에서도 당신의 하루를 응원합니다.",
         "color": "#111827",
         "label": "DAWN",
         "stickers": "🌙 ✨ 🌌",
